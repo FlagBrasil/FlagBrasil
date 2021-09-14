@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Itamar Filho
 
 <!--
 **FlagBrasil/FlagBrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Itamar Filho</h1>
 <h4 align="left">Full Stack Dev. and Systems Analyst - I started coding in 1997. Since 2007 I have been working as a full-time Senior Backend/Frontend Full-stack. I have experience with web development since 2006, PHP, Javascript, Vue.js, React, Mysql, Prestashop, Magento, Wordpress and other tools.
 </h4>
  <hr>
