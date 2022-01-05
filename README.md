@@ -7,7 +7,7 @@
 
 - 🔭 Working on new things in [FlagBrasil](https://flagbrasil.com.br)
 
-- 💬 Ask me about **Lasagna!**. I will be happy if I can help.
+- 💬 Ask me about **Lasagna!**. I will be happy if I can help and a lot happier if I can taste and eat!
 
 - ⚡ Still trying to get platinum in **Skyrim** =(
 
