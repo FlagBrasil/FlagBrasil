@@ -1,7 +1,7 @@
 ### Hello there
 
 <h4 align="left">Senior Full Stack / Systems Analyst - I started coding in 97 (c++, delphi). By 2022, I'm only spending 10% of my working time on code.
-60% in new businesses/customers and 30% thinking. 
+60% in new businesses/customers and 30% thinking about solutions. 
 </h4>
  <hr>
 
