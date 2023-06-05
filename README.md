@@ -1,32 +1,23 @@
-### Hello there
+### Olá
 
-<h4 align="left">Senior Full Stack / Systems Analyst - I started coding in 97 (c++, delphi). By 2022, I'm only spending 10% of my working time on code.
-60% in new businesses/customers and 30% thinking about solutions. 
-</h4>
+<h4 align="left">Senior Full Stack / Analista de Sistemas - Codando desde 97 (c++, delphi). 
+Em 2023: 25% do meu tempo hábil está voltado a programação; 25% a novos projetos e 50% a mercado financeiro / crypto.</h4>
  <hr>
 
-- 🔭 Working on new things in [FlagBrasil](https://flagbrasil.com.br)
-
-- 💬 Ask me about **Lasagna!**. I will be happy if I can help and a lot happier if I can taste and eat!
-
-- ⚡ Still trying to get platinum in **Skyrim** =(
+- 🔭 Fixo na [FlagBrasil](https://flagbrasil.com.br)
+- 💬 Comedor de **Lasagna!** profissional. Convide-me para apreciar e darei uma nota justa a essa preciosidade!
+- ⚡ **Red Dead Redeption** 2 é uma obra de arte... Inquestionável. 
+- ⚡ Platinar **Skyrim** ainda parece impossível. =(
 
 <!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FlagBrasil&label=Profile%20views&color=0e75b6&style=flat" alt="FlagBrasil" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FlagBrasil" alt="FlagBrasil" /></a> </p>
 
-<hr>
-<h3 align="left">Connect with me:</h3>
+E para você que veio até aqui: 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/itafilho/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ItamarFilho" width="40" /></a>
+Estou selecionando alunos para aulas práticas e operação no mercado financeiro brasileiro.
+ - Gratuito.
+ - Entre 19 e 22hs.
+ - Somente presencial.
+ - Necessário notebook.
+ - 3x na semana, 1 mês. 
 
-<a href="https://flagbrasil.com.br/contato/" target="_blank"><img align="center" src="https://flagbrasil.com.br/img/flag_brasil_logo_m.png" alt="FlagBrasil" height="30" /></a>
-</p>
-
-<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlagBrasil&show_icons=true&locale=en&layout=compact" alt="FlagBrasil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FlagBrasil&show_icons=true&locale=en" alt="FlagBrasil" /></p>
 -->
